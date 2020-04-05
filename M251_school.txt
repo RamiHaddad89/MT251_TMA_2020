@@ -1,0 +1,6 @@
+School Name: hello
+Number Of Floors: 2
+**** Room list ****
+Room 101 capacity: 50 assigned Class: null
+Room 102 capacity: 30 assigned Class: {The Size: 25 The Level: grade 1 The Teacher Name: rami}
+Room 103 capacity: 20 assigned Class: null
